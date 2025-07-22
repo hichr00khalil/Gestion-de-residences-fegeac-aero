@@ -6,8 +6,7 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './componment/front/home/home.component';
 import { SubjectsComponent } from './componment/front/subjects/subjects.component';
 import { PostulationsComponent } from './componment/front/postulations/postulations.component';
-import { PfeIntershipsComponent } from './componment/front/pfe-interships/pfe-interships.component';
-import { SummerIntershipsComponent } from './componment/front/summer-interships/summer-interships.component';
+
 import { ForumComponent } from './componment/front/forum/forum.component';
 import { ComplaintsComponent } from './componment/front/complaints/complaints.component';
 import { LoginComponent } from './componment/front/login/login.component';
@@ -29,8 +28,7 @@ import { ResidenceComponent } from './componment/front/residence/residence.compo
     HomeComponent,
     SubjectsComponent,
     PostulationsComponent,
-    PfeIntershipsComponent,
-    SummerIntershipsComponent,
+
     ForumComponent,
     ComplaintsComponent,
     LoginComponent,

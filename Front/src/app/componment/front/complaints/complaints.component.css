@@ -4,15 +4,17 @@
 }
 
 .card-title {
-  font-weight: 600;
+  font-weight: 400;
+}
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+  width: 100%;
+  border-bottom: 4px solid rgb(193, 163, 98); /* Custom color and thicker line */
 }
 
-.card-img-top {
-  max-height: 400px;
-  object-fit: cover;
-}
 .background-section {
-  background-image: url('/assets/images/residence.png');
+  background-image: url('/assets/images/backk.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
